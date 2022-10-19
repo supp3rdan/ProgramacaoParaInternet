@@ -1,0 +1,80 @@
+body {
+	background: grey;
+}
+h1, h2{
+	font-size: 50px;
+	color: white; 
+	text-align: center;
+}
+p {
+	font-size: 30px;
+}
+
+.tecnico {
+	background-color: rgba(0, 0, 0, 0.1);
+}
+
+img { 
+	height: 200px; 
+	width: 200px;
+}
+
+nav {
+	background-color: #18929D;
+	padding: 10px 60px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+nav ul {
+	display: flex;
+	list-style: none;
+	
+}
+
+nav ul a {
+	margin-left: 15px;
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 25px;
+	font-family: sans-serif;
+}
+
+nav a {
+	text-decoration: none;
+}
+
+.tecnico a {
+	text-decoration: none;
+}
+
+nav li a:hover {
+	background-color: #ffffff;
+	color: #000000;
+	border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
